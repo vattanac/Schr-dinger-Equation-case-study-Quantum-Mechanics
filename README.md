@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![🌐 Live Demo](https://schdigner-equation-casestudy-quantum1.netlify.app/)]&nbsp;&nbsp;
+[![🌐 Live Demo](https://schdigner-equation-casestudy-quantum1.netlify.app/)](./index.html)&nbsp;&nbsp;
 [![📄 Word Doc](https://img.shields.io/badge/📄%20Word%20Doc-Download%20Guide-2e7d32?style=for-the-badge)](./Schrodinger_Equation_Guide.docx)&nbsp;&nbsp;
 [![📘 README](https://img.shields.io/badge/📘%20Docs-README-6a1b9a?style=for-the-badge)](./README.md)
 
