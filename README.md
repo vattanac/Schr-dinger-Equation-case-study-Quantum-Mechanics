@@ -1,9 +1,51 @@
 # ⚛️ Schrödinger Equation — Quantum Mechanics Interactive Guide
 
+<div align="center">
+
+[![🌐 Live Demo](https://schdigner-equation-casestudy-quantum1.netlify.app/)]&nbsp;&nbsp;
+[![📄 Word Doc](https://img.shields.io/badge/📄%20Word%20Doc-Download%20Guide-2e7d32?style=for-the-badge)](./Schrodinger_Equation_Guide.docx)&nbsp;&nbsp;
+[![📘 README](https://img.shields.io/badge/📘%20Docs-README-6a1b9a?style=for-the-badge)](./README.md)
+
+</div>
+
+---
+
 > *"If quantum mechanics hasn't profoundly shocked you, you haven't understood it yet."*
 > — Niels Bohr
 
 A complete, self-contained educational resource on the Schrödinger Equation — from first principles to real-world applications. Available in two formats: an **interactive HTML experience** and a **professional Word document**.
+
+---
+
+## 🎮 Demo
+
+| Type | Link | Description |
+|---|---|---|
+| 🌐 **Interactive Web Guide** | [`index.html`](./index.html) | Open locally in any browser — fully offline |
+| 📄 **Word Document** | [`Schrodinger_Equation_Guide.docx`](./Schrodinger_Equation_Guide.docx) | Download and open in Word / LibreOffice |
+
+### Demo Preview
+
+```
+┌─────────────────────────────────────────────────────────┐
+│  ⚛️  The Schrödinger Equation                            │
+│                                                         │
+│          Ψ  (animated particle wave)                    │
+│                                                         │
+│  [Intro] [Wave Fn] [Equation] [TISE] [Box] [Visualizer] │
+│                ↓                                        │
+│  ┌──────────────────────────────────────────────────┐   │
+│  │  🌊 Wave Function Visualizer                      │   │
+│  │  ψ₃(x) = √(2/L) · sin(3πx/L)   n = [1──●──6]   │   │
+│  │  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~             │   │
+│  │  ⚡ Energy Levels  [n=1] [n=2] [n=3] ...          │   │
+│  └──────────────────────────────────────────────────┘   │
+│                                                         │
+│  🧠 Quiz  ·  🏆 Hydrogen Atom  ·  🔬 Applications       │
+└─────────────────────────────────────────────────────────┘
+```
+
+> **To run the demo:** Open the folder and double-click `index.html`. No setup needed.
 
 ---
 
@@ -23,14 +65,39 @@ Schrödinger Equation/
 ### Option 1 — Interactive HTML (Recommended)
 Open `index.html` in any modern web browser. No installation, no server, no dependencies required.
 
-```
-Double-click  →  index.html
+```bash
+# Windows
+start index.html
+
+# macOS
+open index.html
+
+# Linux
+xdg-open index.html
+
+# Or simply double-click the file in your file explorer
 ```
 
-Works offline. Tested in Chrome, Firefox, Edge, and Safari.
+Works fully offline. Tested in Chrome, Firefox, Edge, and Safari.
 
 ### Option 2 — Word Document
 Open `Schrodinger_Equation_Guide.docx` in Microsoft Word or any compatible editor (LibreOffice, Google Docs).
+
+### Option 3 — Host Online (GitHub Pages)
+To share the demo publicly:
+
+```bash
+# 1. Push to a GitHub repository
+git init
+git add .
+git commit -m "Add Schrödinger Equation interactive guide"
+git remote add origin https://github.com/YOUR_USERNAME/schrodinger-equation.git
+git push -u origin main
+
+# 2. Enable GitHub Pages in Settings → Pages → Deploy from: main branch
+# 3. Your demo will be live at:
+#    https://YOUR_USERNAME.github.io/schrodinger-equation/
+```
 
 ---
 
@@ -178,5 +245,9 @@ To go deeper after this guide:
 Made with ❤️ for curious minds everywhere.
 
 **The universe, at its deepest level, is quantum mechanical.**
+
+---
+
+[![🌐 Open Demo](https://img.shields.io/badge/🌐%20Open%20Demo-index.html-1565c0?style=for-the-badge)](./index.html)
 
 </div>
