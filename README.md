@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![🌐 Live Demo](https://schdigner-equation-casestudy-quantum1.netlify.app/)](./index.html)&nbsp;&nbsp;
+[![🌐 Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-Open%20Interactive%20Guide-1565c0?style=for-the-badge&logoColor=white)](https://schdigner-equation-casestudy-quantum1.netlify.app/)&nbsp;&nbsp;
 [![📄 Word Doc](https://img.shields.io/badge/📄%20Word%20Doc-Download%20Guide-2e7d32?style=for-the-badge)](./Schrodinger_Equation_Guide.docx)&nbsp;&nbsp;
 [![📘 README](https://img.shields.io/badge/📘%20Docs-README-6a1b9a?style=for-the-badge)](./README.md)
 
@@ -21,7 +21,7 @@ A complete, self-contained educational resource on the Schrödinger Equation —
 
 | Type | Link | Description |
 |---|---|---|
-| 🌐 **Interactive Web Guide** | [`index.html`](./index.html) | Open locally in any browser — fully offline |
+| 🌐 **Interactive Web Guide** | [🚀 Live on Netlify](https://schdigner-equation-casestudy-quantum1.netlify.app/) | Open in any browser — hosted live |
 | 📄 **Word Document** | [`Schrodinger_Equation_Guide.docx`](./Schrodinger_Equation_Guide.docx) | Download and open in Word / LibreOffice |
 
 ### Demo Preview
